@@ -1,0 +1,8 @@
+neurokit2
+scikit-learn
+pandas
+numpy<2
+scipy
+matplotlib
+jupyter
+joblib
